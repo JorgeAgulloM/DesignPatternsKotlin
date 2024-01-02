@@ -11,12 +11,39 @@ class SuperHeroBuilder : Builder {
     private var isVillain: Boolean? = null
 
 
-    override fun setName(name: String) { this.name = name }
-    override fun setAge(age: Int) { this.age = age }
-    override fun setDescription(description: String) { this.description = description }
-    override fun setPower(power: String) { this.power = power }
-    override fun setWeakness(weakness: String) { this.weakness = weakness }
-    override fun setIsAvenger(isAvenger: Boolean) { this.isAvenger = isAvenger }
-    override fun setIsAlive(isAlive: Boolean) { this.isAlive = isAlive }
-    override fun setIsVillain(isVillain: Boolean) { this. isVillain = isVillain }
+    override fun setName(name: String): SuperHeroBuilder {
+        this.name = name
+        return this
+    }
+    override fun setAge(age: Int): SuperHeroBuilder {
+        this.age = age
+        return this
+    }
+    override fun setDescription(description: String): SuperHeroBuilder {
+        this.description = description
+        return this
+    }
+    override fun setPower(power: String): SuperHeroBuilder {
+        this.power = power
+        return this
+    }
+    override fun setWeakness(weakness: String): SuperHeroBuilder {
+        this.weakness = weakness
+        return this
+    }
+    override fun setIsAvenger(isAvenger: Boolean): SuperHeroBuilder {
+        this.isAvenger = isAvenger
+        return this
+    }
+    override fun setIsAlive(isAlive: Boolean): SuperHeroBuilder {
+        this.isAlive = isAlive
+        return this
+    }
+    override fun setIsVillain(isVillain: Boolean): SuperHeroBuilder {
+        this. isVillain = isVillain
+        return this
+    }
+    override fun build(): Hero {
+        return Hero(name, age, description, power, weakness, isAvenger, isAlive, isVillain)
+    }
 }
