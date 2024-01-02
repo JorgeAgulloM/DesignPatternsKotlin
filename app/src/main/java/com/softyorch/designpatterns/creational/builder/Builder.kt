@@ -2,7 +2,7 @@ package com.softyorch.designpatterns.creational.builder
 
 interface Builder {
     fun setName(name: String)
-    fun setAge(age: String)
+    fun setAge(age: Int)
     fun setDescription(description: String)
     fun setPower(power: String)
     fun setWeakness(weakness: String)
