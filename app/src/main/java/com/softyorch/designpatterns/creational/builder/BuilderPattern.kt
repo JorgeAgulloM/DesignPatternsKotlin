@@ -7,11 +7,11 @@ package com.softyorch.designpatterns.creational.builder
  */
 
 data class Hero(
-    val name:String?,
-    val age:Int?,
-    val description:Int?,
-    val power:String?,
-    val weakness:String?,
+    val name: String?,
+    val age: Int?,
+    val description: String?,
+    val power: String?,
+    val weakness: String?,
     val isAvenger: Boolean?,
     val isAlive: Boolean?,
     val isVillain: Boolean?,
