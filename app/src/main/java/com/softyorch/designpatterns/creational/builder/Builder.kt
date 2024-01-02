@@ -1,23 +1,12 @@
 package com.softyorch.designpatterns.creational.builder
 
-/**
- * *******************************************
- * Problem
- * *******************************************
- */
-
-data class Hero(
-    val name:String?,
-    val age:Int?,
-    val description:Int?,
-    val power:String?,
-    val weakness:String?,
-    val isAvenger: Boolean?,
-    val isAlive: Boolean?,
-    val isVillain: Boolean?,
-)
-
-
-fun example() {
-    val nerdHero = Hero("SuperYorch", null, null, "KOTLIN", "FLUTTER", null, null, null)
+interface Builder {
+    fun setName(name: String)
+    fun setAge(age: String)
+    fun setDescription(description: String)
+    fun setPower(power: String)
+    fun setWeakness(weakness: String)
+    fun setIsAvenger(isAvenger: Boolean)
+    fun setIsAlive(isAlive: Boolean)
+    fun setIsVillain(isVillain: Boolean)
 }
