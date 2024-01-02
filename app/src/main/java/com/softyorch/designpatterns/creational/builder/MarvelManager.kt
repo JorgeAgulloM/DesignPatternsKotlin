@@ -24,3 +24,10 @@ class MarvelManager {
     }
 
 }
+
+fun main() {
+    val marvel = MarvelManager()
+    val superHeroBuilder = SuperHeroBuilder()
+    marvel.createSuperYorchHero(superHeroBuilder)
+    marvel.createSuperYorchStrong(superHeroBuilder)
+}
