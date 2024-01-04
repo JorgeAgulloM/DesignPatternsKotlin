@@ -1,6 +1,6 @@
 package com.softyorch.designpatterns.creational.pototype
 
-interface Prototype {
-    fun clone(): Prototype
+interface IPrototype {
+    fun clone(): IPrototype
     fun getIsometricShape(): IsometricShapes
 }

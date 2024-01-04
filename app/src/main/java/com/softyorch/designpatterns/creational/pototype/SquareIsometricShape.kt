@@ -1,8 +1,8 @@
 package com.softyorch.designpatterns.creational.pototype
 
-class SquareIsometricShape: Prototype {
+class SquareIsometricShape: IPrototype {
     private val original: IsometricShapes = IsometricShapes(name = "Cuadrado Isométrico", sides = 4)
-    override fun clone(): Prototype {
+    override fun clone(): IPrototype {
         return SquareIsometricShape()
     }
 

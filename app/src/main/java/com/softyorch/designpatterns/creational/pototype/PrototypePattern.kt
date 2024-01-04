@@ -1,11 +1,11 @@
 package com.softyorch.designpatterns.creational.pototype
 
 fun main() {
-    val originalTriangle: Prototype = TriangleIsometricShape()
-    val cloneTriangle: Prototype = originalTriangle.clone()
+    val originalTriangle: IPrototype = TriangleIsometricShape()
+    val cloneTriangle: IPrototype = originalTriangle.clone()
 
-    val originalSquare: Prototype = SquareIsometricShape()
-    val cloneSquare: Prototype = originalSquare.clone()
+    val originalSquare: IPrototype = SquareIsometricShape()
+    val cloneSquare: IPrototype = originalSquare.clone()
 
     val clonedTriangleIsometric: IsometricShapes = cloneTriangle.getIsometricShape()
 
