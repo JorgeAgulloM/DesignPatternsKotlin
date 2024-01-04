@@ -37,3 +37,17 @@ Builder es un patrón de diseño creacional que nos permite construir objetos co
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/builder/structure.png">
 
 <hr>
+
+#### Patrón Factory Method
+##### Propósito
+Factory Method es un patrón de diseño creacional que proporciona una interfaz para crear objetos en una superclase, mientras permite a las subclases alterar el tipo de objetos que se crearán.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/factory-method">Patrón Factory Method</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/creational/factoryMethod">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/factory-method/structure-indexed.png?id=4c603207859ca1f939b17b60a3a2e9e0">
+
+<hr>
