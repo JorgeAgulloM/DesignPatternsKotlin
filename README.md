@@ -51,3 +51,17 @@ Factory Method es un patrón de diseño creacional que proporciona una interfaz 
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/factory-method/structure-indexed.png?id=4c603207859ca1f939b17b60a3a2e9e0">
 
 <hr>
+
+#### Patrón Prototype
+##### Propósito
+Prototype es un patrón de diseño creacional que nos permite copiar objetos existentes sin que el código dependa de sus clases.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/prototype">Patrón Prototype</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/creational/pototype">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/prototype/structure-indexed.png">
+
+<hr>
