@@ -1,11 +1,5 @@
 package com.softyorch.designpatterns.creational.builder
 
-/**
- * *******************************************
- * Problem
- * *******************************************
- */
-
 data class Hero(
     val name: String?,
     val age: Int?,
@@ -17,18 +11,12 @@ data class Hero(
     val isVillain: Boolean?,
 )
 
+/**
+ * *******************************************
+ * Problem
+ * *******************************************
+ */
 
 fun example() {
     val nerdHero = Hero("SuperYorch", null, null, null, "FLUTTER", null, null, null)
 }
-
-/**
- * *******************************************
- * Solution
- * *******************************************
- */
-
-
-
-
-
