@@ -10,6 +10,8 @@ Información completa en: <a href="https://refactoring.guru/es/design-patterns">
 
 ###### Ejemplos desarrollados con Kotlin
 
+## Patrones creacionales
+
 #### Patrón Singleton
 ##### Propósito
 Singleton es un patrón de diseño creacional que nos permite asegurarnos de que una clase tenga una única instancia, a la vez que proporciona un punto de acceso global a dicha instancia.
@@ -63,5 +65,21 @@ Prototype es un patrón de diseño creacional que nos permite copiar objetos exi
 - Esquema UML:
 
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/prototype/structure-indexed.png">
+
+<hr>
+
+## Patrones estructurales
+
+#### Patrón Adapter
+##### Propósito
+Adapter es un patrón de diseño estructural que permite la colaboración entre objetos con interfaces incompatibles.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/adapter">Patrón Adapter</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/structuralPatterns/adapter">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/adapter/structure-object-adapter-indexed.png?id=a20b311948b361a058097e5bcdbf067a">
 
 <hr>
