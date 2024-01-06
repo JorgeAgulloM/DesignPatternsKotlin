@@ -83,3 +83,19 @@ Adapter es un patrón de diseño estructural que permite la colaboración entre 
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/adapter/structure-object-adapter-indexed.png?id=a20b311948b361a058097e5bcdbf067a">
 
 <hr>
+
+## Patrones estructurales
+
+#### Patrón Bridge
+##### Propósito
+Bridge es un patrón de diseño estructural que te permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarquías separadas (abstracción e implementación) que pueden desarrollarse independientemente la una de la otra.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/bridge">Patrón Bridge</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/structuralPatterns/bridge">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/bridge/structure-es-indexed.png">
+
+<hr>
