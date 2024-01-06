@@ -95,3 +95,17 @@ Bridge es un patrón de diseño estructural que te permite dividir una clase gra
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/bridge/structure-es-indexed.png">
 
 <hr>
+
+#### Patrón Composite
+##### Propósito
+Composite es un patrón de diseño estructural que te permite componer objetos en estructuras de árbol y trabajar con esas estructuras como si fueran objetos individuales.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/composite">Patrón Composite</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/structuralPatterns/composite">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/composite/structure-es-indexed.png">
+
+<hr>
