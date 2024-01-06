@@ -1,8 +1,6 @@
 ## Diseño de patrones
 
-    Los patrones de diseño son soluciones habituales a problemas que ocurren con frecuencia en el diseño de 
-    software. Son como planos prefabricados que se pueden personalizar para resolver un problema de diseño 
-    recurrente en tu código.
+Los patrones de diseño son soluciones habituales a problemas que ocurren con frecuencia en el diseño de software. Son como planos prefabricados que se pueden personalizar para resolver un problema de diseño recurrente en tu código.
 
 Información completa en: <a href="https://refactoring.guru/es/design-patterns">https://refactoring.guru</a>
 
@@ -83,8 +81,6 @@ Adapter es un patrón de diseño estructural que permite la colaboración entre 
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/adapter/structure-object-adapter-indexed.png?id=a20b311948b361a058097e5bcdbf067a">
 
 <hr>
-
-## Patrones estructurales
 
 #### Patrón Bridge
 ##### Propósito
