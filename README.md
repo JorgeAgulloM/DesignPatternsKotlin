@@ -123,3 +123,17 @@ Decorator es un patrón de diseño estructural que te permite añadir funcionali
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/decorator/structure-indexed.png">
 
 <hr>
+
+#### Patrón Facade
+##### Propósito
+Facade es un patrón de diseño estructural que proporciona una interfaz simplificada a una biblioteca, un framework o cualquier otro grupo complejo de clases.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/facade">Patrón Facade</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/structuralPatterns/facade">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/facade/structure-indexed.png">
+
+<hr>
