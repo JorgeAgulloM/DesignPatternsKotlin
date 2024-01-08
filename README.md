@@ -109,3 +109,17 @@ Composite es un patrón de diseño estructural que te permite componer objetos e
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/composite/structure-es-indexed.png">
 
 <hr>
+
+#### Patrón Decorator
+##### Propósito
+Decorator es un patrón de diseño estructural que te permite añadir funcionalidades a objetos colocando estos objetos dentro de objetos encapsuladores especiales que contienen estas funcionalidades.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/decorator">Patrón Decorator</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/structuralPatterns/decorator">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/decorator/structure-indexed.png">
+
+<hr>
