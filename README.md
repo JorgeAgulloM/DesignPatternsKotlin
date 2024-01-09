@@ -151,3 +151,17 @@ Flyweight es un patrón de diseño estructural que te permite mantener más obje
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/flyweight/structure-indexed.png">
 
 <hr>
+
+#### Patrón Proxy
+##### Propósito
+Proxy es un patrón de diseño estructural que te permite proporcionar un sustituto o marcador de posición para otro objeto. Un proxy controla el acceso al objeto original, permitiéndote hacer algo antes o después de que la solicitud llegue al objeto original.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/proxyhttps://refactoring.guru/es/design-patterns/proxy">Patrón Proxy</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/structuralPatterns/proxy">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/proxy/structure-indexed.png">
+
+<hr>
