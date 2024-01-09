@@ -165,3 +165,19 @@ Proxy es un patrón de diseño estructural que te permite proporcionar un sustit
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/proxy/structure-indexed.png">
 
 <hr>
+
+## Patrones de comportamiento
+
+#### Patrón Chain of Responsibility
+##### Propósito
+Chain of Responsibility es un patrón de diseño de comportamiento que te permite pasar solicitudes a lo largo de una cadena de manejadores. Al recibir una solicitud, cada manejador decide si la procesa o si la pasa al siguiente manejador de la cadena.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/chain-of-responsibility">Patrón Chain of Responsibility</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/chainOfResponsibility">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/chain-of-responsibility/structure-indexed.png">
+
+<hr>
