@@ -181,3 +181,17 @@ Chain of Responsibility es un patrón de diseño de comportamiento que te permit
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/chain-of-responsibility/structure-indexed.png">
 
 <hr>
+
+#### Patrón Command
+##### Propósito
+Command es un patrón de diseño de comportamiento que convierte una solicitud en un objeto independiente que contiene toda la información sobre la solicitud. Esta transformación te permite parametrizar los métodos con diferentes solicitudes, retrasar o poner en cola la ejecución de una solicitud y soportar operaciones que no se pueden realizar.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/command">Patrón Command</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/command">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/command/structure-indexed.png">
+
+<hr>
