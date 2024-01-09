@@ -137,3 +137,17 @@ Facade es un patrón de diseño estructural que proporciona una interfaz simplif
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/facade/structure-indexed.png">
 
 <hr>
+
+#### Patrón Flyweight
+##### Propósito
+Flyweight es un patrón de diseño estructural que te permite mantener más objetos dentro de la cantidad disponible de RAM compartiendo las partes comunes del estado entre varios objetos en lugar de mantener toda la información en cada objeto.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/flyweight">Patrón Flyweight</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/structuralPatterns/flyweight">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/flyweight/structure-indexed.png">
+
+<hr>
