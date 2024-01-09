@@ -195,3 +195,17 @@ Command es un patrón de diseño de comportamiento que convierte una solicitud e
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/command/structure-indexed.png">
 
 <hr>
+
+#### Patrón Iterator
+##### Propósito
+Iterator es un patrón de diseño de comportamiento que te permite recorrer elementos de una colección sin exponer su representación subyacente (lista, pila, árbol, etc.).
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/iterator">Patrón Iterator</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/iterator">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/iterator/structure-indexed.png">
+
+<hr>
