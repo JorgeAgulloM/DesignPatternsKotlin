@@ -273,3 +273,17 @@ State es un patrón de diseño de comportamiento que permite a un objeto alterar
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/state/structure-es-indexed.png">
 
 <hr>
+
+#### Patrón Strategy
+##### Propósito
+Strategy es un patrón de diseño de comportamiento que te permite definir una familia de algoritmos, colocar cada uno de ellos en una clase separada y hacer sus objetos intercambiables.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/strategy">Patrón Strategy</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/strategy">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/strategy/structure-indexed.png">
+
+<hr>
