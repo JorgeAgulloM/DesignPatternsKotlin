@@ -223,3 +223,25 @@ Mediator es un patrón de diseño de comportamiento que te permite reducir las d
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/mediator/structure-indexed.png">
 
 <hr>
+
+#### Patrón Memento
+##### Propósito
+Memento es un patrón de diseño de comportamiento que te permite guardar y restaurar el estado previo de un objeto sin revelar los detalles de su implementación.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/memento">Patrón Memento</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/memento">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/memento/structure2-indexed.png">
+
+##### Modelo de acceso más restrictivo
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/memento/restrictiveExample">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/memento/structure3-indexed.png">
+
+<hr>
