@@ -259,3 +259,17 @@ Observer es un patrón de diseño de comportamiento que te permite definir un me
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/observer/structure-indexed.png">
 
 <hr>
+
+#### Patrón State
+##### Propósito
+State es un patrón de diseño de comportamiento que permite a un objeto alterar su comportamiento cuando su estado interno cambia. Parece como si el objeto cambiara su clase.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/state">Patrón State</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/state">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/state/structure-es-indexed.png">
+
+<hr>
