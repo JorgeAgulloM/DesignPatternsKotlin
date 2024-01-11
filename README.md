@@ -209,3 +209,17 @@ Iterator es un patrón de diseño de comportamiento que te permite recorrer elem
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/iterator/structure-indexed.png">
 
 <hr>
+
+#### Patrón Mediator
+##### Propósito
+Mediator es un patrón de diseño de comportamiento que te permite reducir las dependencias caóticas entre objetos. El patrón restringe las comunicaciones directas entre los objetos, forzándolos a colaborar únicamente a través de un objeto mediador.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/mediator">Patrón Mediator</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/mediator">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/mediator/structure-indexed.png">
+
+<hr>
