@@ -245,3 +245,17 @@ Memento es un patrón de diseño de comportamiento que te permite guardar y rest
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/memento/structure3-indexed.png">
 
 <hr>
+
+#### Patrón Observer
+##### Propósito
+Observer es un patrón de diseño de comportamiento que te permite definir un mecanismo de suscripción para notificar a varios objetos sobre cualquier evento que le suceda al objeto que están observando.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/observer">Patrón Observer</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/observer">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/observer/structure-indexed.png">
+
+<hr>
