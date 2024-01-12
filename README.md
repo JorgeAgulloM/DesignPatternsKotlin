@@ -287,3 +287,17 @@ Strategy es un patrón de diseño de comportamiento que te permite definir una f
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/strategy/structure-indexed.png">
 
 <hr>
+
+#### Patrón Template Method
+##### Propósito
+Template Method es un patrón de diseño de comportamiento que define el esqueleto de un algoritmo en la superclase pero permite que las subclases sobrescriban pasos del algoritmo sin cambiar su estructura.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/template-method">Patrón Template Method</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/templateMethod">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/template-method/structure-indexed.png?id=4ced6107519bc66710d2f05c0f4097a1">
+
+<hr>
