@@ -301,3 +301,17 @@ Template Method es un patrón de diseño de comportamiento que define el esquele
 <img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/template-method/structure-indexed.png?id=4ced6107519bc66710d2f05c0f4097a1">
 
 <hr>
+
+#### Patrón Visitor
+##### Propósito
+Visitor es un patrón de diseño de comportamiento que te permite separar algoritmos de los objetos sobre los que operan.
+
+- Más info: <a href="https://refactoring.guru/es/design-patterns/visitor">Patrón Visitor</a>
+
+- <a href="https://github.com/JorgeAgulloM/DesignPatternsKotlin/tree/main/app/src/main/java/com/softyorch/designpatterns/behaviour/visitor">Ejemplo</a> simple con código Kotlin
+
+- Esquema UML:
+
+<img height="45%" width="auto" src ="https://refactoring.guru/images/patterns/diagrams/visitor/structure-es-indexed.png">
+
+<hr>
